@@ -1151,6 +1151,9 @@
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/2e51dbe0-22eb-485d-9a45-6cd1e80233f0"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/3511dd9d-7bfa-4b7e-904f-827f5102981d"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/3a284e3b-7993-422d-b859-b319adc5ab6f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1160,8 +1163,17 @@
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/6fd4c5fb-dc95-4c6f-94f1-0c4b42bed2b5"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/7cd6a19a-6b9a-4e0f-bdcf-f1831f05cafd"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/898f4499-dc33-4e66-8c68-799972312f70"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/9bfd2f32-4ac4-4239-9759-25c5f9a75d58"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/9c5f0a76-de4c-427c-a787-01f2f66cbbe6"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/a45e1613-a595-487e-ae4a-ee4e547986a0"
       (reference "#PWR?") (unit 1) (value "+3.3VA") (footprint "")
@@ -1223,11 +1235,26 @@
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/42275458-b33e-4752-b848-447bdd94a937"
       (reference "R?") (unit 1) (value "1k") (footprint "")
     )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/45b149ff-23c2-4332-b2aa-5e8de0005e86"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/901d2b48-7bd0-46bf-a84a-a7b068208fd0"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/eb690fe6-41ac-4455-a1f8-722182f86b3f"
+      (reference "R?") (unit 1) (value "2k2") (footprint "")
+    )
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/edee4021-13cf-4328-ae9b-d30c067fb4cb"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/02eaf390-26d6-4c34-a77c-ad2fa69e8550"
       (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
+    )
+    (path "/83ffcd35-b864-4359-90fc-c1555332b57a/0e6f53c4-86c3-496b-b2ae-bd992319fad5"
+      (reference "U?") (unit 1) (value "BW16") (footprint "BW16 RF module")
+    )
+    (path "/f05c2856-db3c-4c2c-95e0-f2fc29ed1e9b/15b5b4c5-072a-4729-968a-fc08c98962ca"
+      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm")
     )
     (path "/17fdea6e-1669-4fac-b137-0778e2c47eab"
       (reference "U?") (unit 1) (value "TB6612FNG") (footprint "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm")
@@ -1241,10 +1268,19 @@
     (path "/83ffcd35-b864-4359-90fc-c1555332b57a/35323db5-1d3a-4fc3-b560-cda609520df6"
       (reference "U?") (unit 1) (value "STM32F405RGT6") (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
     )
-    (path "/d11e88ac-5f6b-43db-8ef7-f075c41bb607"
+    (path "/f05c2856-db3c-4c2c-95e0-f2fc29ed1e9b/647b0f2a-3503-4acb-8248-d15b4074b41b"
       (reference "U?") (unit 1) (value "INA260") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
-    (path "/71bc731b-16b6-4be5-92be-921c59513e4b/ddf63b57-4d6f-4116-996d-b1b6b4e29934"
+    (path "/f05c2856-db3c-4c2c-95e0-f2fc29ed1e9b/6dff0a3e-bbda-4301-a131-292a56b99e26"
+      (reference "U?") (unit 1) (value "TB6612FNG") (footprint "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm")
+    )
+    (path "/f05c2856-db3c-4c2c-95e0-f2fc29ed1e9b/b8ff2f1d-4b5e-4fe1-8d51-1995056c7c70"
+      (reference "U?") (unit 1) (value "MPU-6050") (footprint "Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm")
+    )
+    (path "/f05c2856-db3c-4c2c-95e0-f2fc29ed1e9b/cbe82ede-77d3-483a-aa77-c9468538e0fd"
+      (reference "U?") (unit 1) (value "JY-901") (footprint "")
+    )
+    (path "/d11e88ac-5f6b-43db-8ef7-f075c41bb607"
       (reference "U?") (unit 1) (value "INA260") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/cdee63b5-0c97-4cda-a3d1-78668419fd36"
